@@ -43,6 +43,7 @@ _Give it a task; it works across your repo._
 - **[Claude Code](https://claude.ai/code)** — Terminal-based AI coding agent from Anthropic with full codebase understanding. `$20/mo (via Pro)` · [review](https://devtoolsreview.com/reviews/claude-code-review/)
 - **[Cline](https://cline.bot/)** — Open-source VS Code AI agent with Plan/Act modes, terminal execution, and MCP support. `Free (OSS)` · [review](https://devtoolsreview.com/reviews/cline-review/)
 - **[Aider](https://aider.chat/)** — Open-source terminal AI pair programmer with git integration and multi-LLM support. `Free (OSS)` · [review](https://devtoolsreview.com/reviews/aider-review/)
+- **[Sillage](https://github.com/MarlBurroW/sillage)** - Self-hosted, mobile-first web UI that drives the Claude Code and Codex CLIs on your own machine; PWA, persistent sessions, full-text search, IDE panel. Only front-ends the official CLIs, so you must install and run them yourself and hold your own Anthropic/OpenAI access. `Free (OSS)`
 
 ## Head-to-head comparisons
 
