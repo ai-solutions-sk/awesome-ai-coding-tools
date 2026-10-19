@@ -2,7 +2,7 @@
 
 > A curated list of AI coding tools — editors, agents and IDE plugins — with prices verified against each vendor's own pricing page.
 
-Every tool here has been used on real projects. Prices below were last verified **Oct 1, 2026** and are re-checked monthly; when one changes it is recorded with the date in the [change tracker](https://devtoolsreview.com/changes/).
+Every tool here has been used on real projects. Prices below were last verified **Oct 18, 2026** and are re-checked monthly; when one changes it is recorded with the date in the [change tracker](https://devtoolsreview.com/changes/).
 
 **11 tools · 7 with a genuinely free tier · 55 head-to-head comparisons**
 
