@@ -4,7 +4,7 @@
 
 Every tool here has been used on real projects. Prices below were last verified **Oct 18, 2026** and are re-checked monthly; when one changes it is recorded with the date in the [change tracker](https://devtoolsreview.com/changes/).
 
-**11 tools · 7 with a genuinely free tier · 55 head-to-head comparisons**
+**12 tools · 7 with a genuinely free tier · 55 head-to-head comparisons**
 
 Maintained alongside [DevTools Review](https://devtoolsreview.com/). No tool pays for placement, and this list is enrolled in no affiliate programme — see [disclosure](https://devtoolsreview.com/affiliate-disclosure/).
 
@@ -106,7 +106,7 @@ Each one is a hands-on write-up, not a spec table.
 
 ## Pricing
 
-- [Every plan from all 11 tools, cheapest first](https://devtoolsreview.com/pricing/) — with a calculator that includes the API spend behind the "free" ones
+- [Every plan from all 12 tools, cheapest first](https://devtoolsreview.com/pricing/) — with a calculator that includes the API spend behind the "free" ones
 - [Full feature matrix](https://devtoolsreview.com/compare/) — filter by free tier, self-hosting, JetBrains, MCP support
 - [Which tool fits you](https://devtoolsreview.com/picker/) — four questions, and it explains why it ruled the others out
 
