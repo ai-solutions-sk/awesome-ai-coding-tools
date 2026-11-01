@@ -2,7 +2,7 @@
 
 > A curated list of AI coding tools — editors, agents and IDE plugins — with prices verified against each vendor's own pricing page.
 
-Every tool here has been used on real projects. Prices below were last verified **Oct 18, 2026** and are re-checked monthly; when one changes it is recorded with the date in the [change tracker](https://devtoolsreview.com/changes/).
+Every tool here has been used on real projects. Prices below were last verified **Oct 19, 2026** and are re-checked monthly; when one changes it is recorded with the date in the [change tracker](https://devtoolsreview.com/changes/).
 
 **12 tools · 7 with a genuinely free tier · 55 head-to-head comparisons**
 
@@ -114,12 +114,12 @@ Each one is a hands-on write-up, not a spec table.
 
 Tracked since Mar 17, 2026. Full log: [https://devtoolsreview.com/changes/](https://devtoolsreview.com/changes/)
 
+- **Nov 1, 2026** — Claude Code: The $200/mo tier previously tracked as "Max (20x)" is now explicitly named Ultra on claude.com/pricing, with usage described as 10x Pro per week (not 20x) and no 5-hour cap for verified accounts. Max ($100/mo) stays 5x Pro usage. Price unchanged for both tiers.
+- **Nov 1, 2026** — All tools: All 12 tracked tools re-checked against vendor pricing pages (Codex, added 2026-10-26, included for the first time). One tier rename found (Claude Code's $200/mo tier is now called Ultra, not Max 20x). Copilot's Business/Enterprise seat prices and JetBrains AI's pricing page could not be reconfirmed this cycle — their priceVerifiedAt dates were left unchanged rather than bumped without a check.
 - **Oct 19, 2026** — GitHub Copilot: GitHub Copilot now bills in AI credits (1 credit = $0.01 of model usage, per token) instead of premium requests, effective 1 June 2026. Pro $10 includes 1,500 credits, Pro+ $39 includes 7,000, Max $100 includes 20,000; Business $19/user and Enterprise $39/user get pooled credits. Code completion stays unlimited on paid plans. Headline prices unchanged.
 - **Oct 19, 2026** — JetBrains AI: Restructured again, one month after the September change. New AI Free tier (unlimited completion, 3 credits/mo); AI Pro $10/mo (10 credits) and AI Ultimate $30/mo (35 credits). The $20 and $60 commercial seats are gone: organisations now buy shared credits at API price plus optional Air Governance (Basic free, Business $20/seat/mo, Enterprise custom). Verified on jetbrains.com/store/ai/.
 - **Oct 19, 2026** — All tools: All 11 tools re-verified against their vendors' own pages on 18–19 October — the first complete cycle since September. Five moved (Cursor, Copilot, JetBrains AI, Devin/Windsurf, Cline), one left the market (Tabnine), and Amazon Q's closure dates (no new signups since 15 May 2026, end of support 30 April 2027) were unchanged.
 - **Oct 18, 2026** — Cursor: The $20 Pro plan is gone. Cursor's plans are now Free, Plus ($8/mo, Grok models only), Premium ($30/mo, the tier that can use Claude and GPT models, billed separately at API price), Super ($100), Ultra ($200) and Teams from $30/user. The cheapest plan with third-party frontier models went from $20 to $30.
-- **Oct 18, 2026** — Tabnine: No longer sold to new customers. tabnine.com now redirects to tricentis.com following Tricentis's acquisition (closed 30 July 2026); there is no public pricing or self-serve signup. Marked unavailable across the site.
-- **Oct 18, 2026** — Windsurf (Devin Desktop): Devin (formerly Windsurf) Teams is now $80/month base plus $40 per seat. Pro stays $20/mo and Max $200/mo. The product now lives at devin.ai.
 
 ## Contributing
 
