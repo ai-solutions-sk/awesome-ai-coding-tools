@@ -22,6 +22,7 @@ Maintained alongside [DevTools Review](https://devtoolsreview.com/). No tool pay
 
 _The editor itself is the AI product._
 
+- **[Althar](https://althar.ai/)** — Desktop ADE for assigning work to coding agents and reviewing their changes with another model. The app is tested most on macOS. `Free app (uses your existing agent plans or keys)`
 - **[Cursor](https://www.cursor.com/)** — AI-first code editor built on VS Code with deep codebase understanding. `$30/mo, free tier` · [review](https://devtoolsreview.com/reviews/cursor-review/)
 - **[Windsurf (Devin Desktop)](https://devin.ai/)** — Agentic IDE (now part of Cognition) with the SWE-2 model and quota-based plans for multi-step coding. `$20/mo, free tier` · [review](https://devtoolsreview.com/reviews/windsurf-review/)
 - **[Zed](https://zed.dev/)** — Rust-native, open-source code editor with agent-agnostic AI via ACP and real-time collaboration. `Free` · [review](https://devtoolsreview.com/reviews/zed-review/)
